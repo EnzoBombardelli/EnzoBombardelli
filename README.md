@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="images/header.svg" alt="Header - Enzo Bombardelli e Silva" />
+</p>
+
+## Hi, I'am Enzo Bombardelli 👋
 
 <!--
 **EnzoBombardelli/EnzoBombardelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
