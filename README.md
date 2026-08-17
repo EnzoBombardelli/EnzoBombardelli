@@ -12,7 +12,9 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Enzo. I was born in Londrina, Paraná, Brazil, and I am currently a Software Engineering student at Centro Universitário Filadélfia (UniFil).<br>🎯 Goals: Keep learning more and more, and live abroad.<br>📖 I'm currently learning some programming languages.<br>⏳ In progress: HTML, CSS, and Java.</p>
+<p data-importer="text" align="left">I'm Enzo. I was born in Londrina, Paraná, Brazil, and I am currently a Software Engineering student at Centro Universitário Filadélfia (UniFil).<br>🎯 Goals: Keep learning more and more, and live abroad.<br>📖 I'm currently learning some programming languages.<br>⏳ In progress: HTML, CSS, Java and JavaScript.</p>
+
+<p>More here: https://enzobombardelli.github.io/Portifolio/</p>
 
 ###
 
